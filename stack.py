@@ -61,7 +61,7 @@ class Stack:
 
 
    def isEmpty(self):
-      """This method retuns a boolean value describing weather or not the Stack is empty.
+      """This method retuns a boolean value describing whether or not the Stack is empty.
 
       testing for equality happens in constant time.
       """
