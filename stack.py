@@ -6,7 +6,8 @@ Created on Thu Jan 21 10:52:00 2021
 """
 
 """
-   print statements are commented you can always uncomment them to track the operations
+   all methods return & print the appropiate values 
+   print statements are commented. you can always uncomment them to track the operations
 """
 
 class Stack:
