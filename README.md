@@ -9,6 +9,6 @@ Basic operations of stack:
 
   isEmpty — Returns true if the stack is empty
 
-  Peek — Returns the top element without removing from the stack
+  Peek — Returns the top element without removing it from the stack
 
   showItems — prints all the items in the stack
