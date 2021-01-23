@@ -10,5 +10,7 @@ Basic operations of stack:
     isEmpty — Returns true if the stack is empty
 
     Peek — Returns the top element without removing it from the stack
+    
+    size — Returns the length of the list
 
     showItems — prints all the items in the stack
